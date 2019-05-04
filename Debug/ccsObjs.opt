@@ -1,0 +1,1 @@
+"./src/dht11.obj" "./src/ds18b20.obj" "./src/esp8266.obj" "./src/iic.obj" "./src/led.obj" "./src/main.obj" "./src/oled.obj" "./src/sci.obj" "../lnk_msp430f149.cmd" -llibc.a 
